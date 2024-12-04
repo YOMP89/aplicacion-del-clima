@@ -1,5 +1,7 @@
 # Aplicacíon del clima
 
+![Pantallazo del proyecto](pantallazo.jpg)
+
 Una aplicación de clima en tiempo real que permite a los usuarios buscar y consultar el clima actual en cualquier ciudad del mundo.
 
 ## Características
